@@ -150,7 +150,7 @@
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>5.1.29</version>
+			<version>8.0.16</version>
 		</dependency>
 
 		<!-- systemPath로 로컬에 설치한 위치를 지정합니다. ${basedir}은 프로젝트 루트 디렉터리입니다. -->
